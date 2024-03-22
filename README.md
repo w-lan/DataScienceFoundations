@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Data Science course
+Coursera Data Science Foundations course
